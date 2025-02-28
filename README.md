@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=rajeshj11&theme=jolly&date_format=j%20M%5B%20Y%5D)
 -->
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=rajesh-jonnalagadda&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=rajesh-jonnalagadda0&color=blueviolet&style=flat-square)
